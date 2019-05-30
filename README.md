@@ -1,5 +1,5 @@
 # EECS4404-Machine-Learning
-contains three assignments
+Implement learning models and face detection algorithms.
 
 Assignment 1: Implement a naive bayes model to classify poisonous & edible mushrooms based on 23 features. 
 
